@@ -32,7 +32,7 @@
     ...
 
 .NOTES
-    Created by De Maeseneer Didier
+    Created by MisterDDM
 
 #>
     [CmdletBinding( SupportsShouldProcess=$true, 
