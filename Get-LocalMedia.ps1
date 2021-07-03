@@ -46,7 +46,7 @@
     This will show all movies where the name is like 'harry'
 
 .NOTES
-    Created by De Maeseneer Didier
+    Created by MisterDDM
     This script is dependent of Get-RootDrives
 #>
 
